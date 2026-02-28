@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Data excites me — not just the technology behind it, but what happens when it's done right and actually starts driving decisions.<br><br>I've spent years in the trenches architecting data platforms across Azure, AWS, and GCP, and Databricks has been at the heart of most of what I've built. I've worked through the messy stuff — legacy systems that nobody wanted to touch, pipelines that broke at the worst times, and stakeholders who just wanted answers faster. That experience shaped how I think about architecture: it has to be scalable, yes, but it also has to be practical, cost-aware, and something a team can actually maintain.<br><br>A lot of my work has been about modernization — and I don't just mean tweaking pipelines. I've led full platform migrations, moving organizations off Redshift, BigQuery, and Clickhouse and onto the Databricks Lakehouse. These aren't small lifts — they involve re-architecting data models, rebuilding pipelines, managing stakeholder expectations, and making sure nothing breaks in production while the migration is happening. Along the way, I've also cleaned up old SQL, HQL, and Scala code, rebuilding it into maintainable PySpark pipelines that teams can actually work with long-term.<br><br>On the real-time side, I've built streaming architectures using Kafka and Debezium, and have worked with Databricks Zero Bus — which eliminates the need for a traditional message broker entirely, simplifying real-time ingestion directly into the Lakehouse. I've also introduced Delta Live Tables to bring structure and reliability to ETL that was held together with duct tape, and implemented Unity Catalog for enterprise-wide governance — giving teams full visibility into data lineage, access control, and compliance.<br><br>One thing I care about that often gets overlooked is cost. I've built Databricks FinOps dashboards that helped leadership finally see where their spend was going — and more importantly, how to reduce it without hurting performance.<br><br>I hold 5x Databricks certifications and 2x Azure certifications, but honestly, what I'm most proud of is building things that teams trust and actually use.<br>Right now I'm looking for Solution Architect opportunities — ideally at a product company where I can go deep on the Databricks ecosystem and help customers get real value out of it.<br><br>If that sounds like something you're working on, I'd love to chat.
 
-<!--
-**sagaromar95/sagaromar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sagaromar95&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sagaromar95&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagaromar95&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sagaromar95&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sagaromar95&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
